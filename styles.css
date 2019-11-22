@@ -1,0 +1,12 @@
+body {
+    background-color: #ffd0d0
+}
+
+h1 {
+    margin: 50px;
+    text-align: center;
+}
+
+.margin {
+    margin: 50px 100px
+}
